@@ -1,0 +1,6 @@
+{
+  "name": "FOODORA X",
+  "description": "Next-Gen AI-powered food delivery ecosystem featuring AI Craving Finder, Mood Recommendations, Eco Delivery Score, Food DNA, Group Ordering, and multi-role dashboards.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
